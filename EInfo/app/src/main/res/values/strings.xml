@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EInfo</string>
+
+    <string name="hello_world">Olá Mundo</string>
+    <string name="action_settings">Settings</string>
+    <string name="cadastros">Cadastros</string>
+    <string name="novo">Novo</string>
+    <string name="salvar">Salvar</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="title_activity_manutencao">ManutencaoActivity</string>
+</resources>
